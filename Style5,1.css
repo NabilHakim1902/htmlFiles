@@ -1,0 +1,29 @@
+.row{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+}
+
+.column{
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 40px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.blue{
+    background-color: aqua;
+}
